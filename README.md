@@ -99,12 +99,12 @@ Contains various accelerator modules, deployed by the solution.
 ### @aws-accelerator/ui (future)
 
 A web application that utilizes the aws-ui-components library to present a
-console to configure the accelerator
+console to configure the accelerator.
 
 ### @aws-accelerator/utils
 
 Contains common utilities and types that are needed by @aws-accelerator/\*
-packages. For example, throttling and backoff for AWS SDK calls
+packages. For example, throttling and backoff for AWS SDK calls.
 
 ### @aws-cdk-extensions/cdk-extensions
 
